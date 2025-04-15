@@ -10,7 +10,6 @@ Acest repository conține articole și resurse publicate pe teme din tehnologie:
 - Manipulare online și dezinformare digitală
 - Inteligență artificială – avantaje și riscuri
 - Optimizare web și transparență în SEO
-- Tehnologii emergente și impact social
 
 ## Structura repository-ului
 
@@ -77,13 +76,8 @@ Versiunea 1.0.8 Android include:
 
 ---
 
-### ⚠️ Concluzie
-
-Aceste descoperiri accentuează riscurile de securitate asociate aplicațiilor AI și necesitatea unor măsuri de reglementare și supraveghere riguroasă.
-
----
-
 📎 [Sursa originală articol pe Facla.ro](https://facla.ro/aplicatia-deepseek-pentru-ios-prezinta-riscuri-majore-de-securitate/)
+---
 
 ## Instrumente esențiale pentru verificarea securității pe internet
 
