@@ -87,7 +87,7 @@ Aceste descoperiri accentuează riscurile de securitate asociate aplicațiilor A
 
 ## Instrumente esențiale pentru verificarea securității pe internet
 
-**martie 24, 2025** by [Daniel Lăcătuș](https://facla.ro/instrumente-esentiale-pentru-verificarea-securitatii-pe-internet/)
+**martie 24, 2025** by [Daniel Lăcătuș](https://facla.ro/writer/faclalibera/)
 
 În contextul utilizării tot mai largi a internetului, este important să acordăm atenție modului în care ne protejăm informațiile și activitățile online. Evaluarea și menținerea unui nivel corespunzător de securitate reprezintă un pas necesar atât pentru administratorii de site, cât și pentru utilizatorii obișnuiți.
 
@@ -117,10 +117,5 @@ Pe lângă analiza certificatelor SSL, serviciile [VPN](https://www.expressvpn.c
 Gestionarea parolelor reprezintă o altă componentă esențială în protejarea informațiilor. Soluții precum [Bitwarden](https://bitwarden.com/) și [LastPass](https://www.lastpass.com/) permit generarea și stocarea în siguranță a unor parole complexe. De asemenea, implementarea autentificării în doi pași adaugă un nivel suplimentar de securizare, oferind o verificare suplimentară înainte să fie acordat accesul la conturile personale.
 
 În final, politica de backup regulat al datelor completează ansamblul de măsuri de protecție. Stocarea securizată și verificarea periodică a datelor asigură posibilitatea restaurării informațiilor în caz de incident, contribuind la menținerea funcționării neîntrerupte a sistemelor.
-
-### Concluzie
-Consider că o abordare integrată, ce combină verificarea constantă a domeniilor, monitorizarea atentă a programelor malițioase și implementarea metodelor de criptare, reprezintă o soluție echilibrată pentru menținerea securității pe internet. Experiența mă învață că niciun instrument nu este suficient de sigur, ci este necesară o combinație de resurse care să ofere o evaluare cuprinzătoare a riscurilor.
-
-Cred că această abordare modulară, bazată pe instrumente precum [MX Toolbox](https://mxtoolbox.com/), [VirusTotal](https://www.virustotal.com/), și [SSL Labs](https://www.ssllabs.com/ssltest/), reprezintă un punct de plecare solid în procesul de protejare a datelor și de prevenire a incidentelor. Adaptarea continuă la noile amenințări și menținerea unei atitudini preventive sunt, în final, esențiale pentru a face față provocărilor actuale.
 
 
