@@ -83,5 +83,5 @@ Aceste descoperiri accentuează riscurile de securitate asociate aplicațiilor A
 
 ---
 
-📎 [Sursa originală articol pe Facla.ro](https://facla.ro/category/tehnologie-si-stiinta/)
+📎 [Sursa originală articol pe Facla.ro](https://facla.ro/aplicatia-deepseek-pentru-ios-prezinta-riscuri-majore-de-securitate/)
 
