@@ -1,8 +1,8 @@
 # Articole: Tehnologie, Inteligență Artificială și Securitate online
 
-Acest repository conține articole și resurse publicate pe tema tehnologiei, inteligenței artificiale, securității cibernetice și a vulnerabilităților din ecosisteme precum WordPress sau aplicații mobile. Conținutul este original și reflectă o analiză critică, orientată spre realitatea tehnică și socială contemporană.
+Acest repository conține articole și resurse publicate pe teme din tehnologie: vulnerabilități wordpress, securitate online, securitatea aplicațiilor mobile și evoluția inteligenței artificiale. Conținutul este original și reflectă o analiză critică, orientată spre realitatea tehnică și socială contemporană.
 
-🔗 Articolele sunt publicate și în cadrul categoriei **Tehnologie și Știință** de pe [Facla.ro](https://facla.ro/category/tehnologie-si-stiinta/).
+🔗 Articolele sunt publicate și în categoria **Tehnologie și Știință** de pe [Facla.ro](https://facla.ro/category/tehnologie-si-stiinta/).
 
 ## Domenii tratate
 
