@@ -77,6 +77,7 @@ Versiunea 1.0.8 Android include:
 ---
 
 📎 [Sursa originală articol pe Facla.ro](https://facla.ro/aplicatia-deepseek-pentru-ios-prezinta-riscuri-majore-de-securitate/)
+
 ---
 
 ## Instrumente esențiale pentru verificarea securității pe internet
