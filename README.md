@@ -1,4 +1,4 @@
-# Articole Tehnologie, Inteligență Artificială și Securitate
+# Articole: Tehnologie, Inteligență Artificială și Securitate online
 
 Acest repository conține articole și resurse publicate pe tema tehnologiei, inteligenței artificiale, securității cibernetice și a vulnerabilităților din ecosisteme precum WordPress sau aplicații mobile. Conținutul este original și reflectă o analiză critică, orientată spre realitatea tehnică și socială contemporană.
 
